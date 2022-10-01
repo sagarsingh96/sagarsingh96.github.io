@@ -2,12 +2,11 @@
     "foodList": [
       {
         "details": [
-          "",
-          "",
-          ""
+          "A delicious dish made with freshly bought okra. Grab some mustard oil, cumin seeds, fennel seeds, finely-chopped onions, ginger and a pinch of amchoor. We promise you'll make this recipe a regular affair in your weekly menu."
         ],
-        "name": "Hello World",
-        "imgUrl": "imageURL"
+        "Ingredients": [],
+        "name": "Masala Bhindi",
+        "imgUrl": "https://i.ndtvimg.com/i/2015-04/bhindi_625x350_51429706972.jpg"
       },
       {
         "details": [
@@ -15,8 +14,8 @@
           "",
           ""
         ],
-        "name": "Hello World",
-        "imgUrl": "imageURL"
+        "name": "Chana Kulcha",
+        "imgUrl": "https://i.ndtvimg.com/i/2015-04/chana-kulcha_625x350_41429707001.jpg"
       },
       {
         "details": [
@@ -24,8 +23,8 @@
           "",
           ""
         ],
-        "name": "Hello World",
-        "imgUrl": "imageURL"
+        "name": " Shahi Egg Curry",
+        "imgUrl": "https://i.ndtvimg.com/i/2017-11/goan-egg-curry_620x350_41511515276.jpg"
       },
       {
         "details": [
@@ -33,8 +32,8 @@
           "",
           ""
         ],
-        "name": "Hello World",
-        "imgUrl": "imageURL"
+        "name": "Kolhapuri Vegetables",
+        "imgUrl": "https://i.ndtvimg.com/i/2015-04/vegetables_625x350_71429707442.jpg"
       },
       {
         "details": [
@@ -42,8 +41,8 @@
           "",
           ""
         ],
-        "name": "Hello World",
-        "imgUrl": "imageURL"
+        "name": "Paneer Achaari",
+        "imgUrl": "https://i.ndtvimg.com/i/2015-04/paneer_625x350_61429707960.jpg"
       },
       {
         "details": [
@@ -51,8 +50,8 @@
           "",
           ""
         ],
-        "name": "Hello World",
-        "imgUrl": "imageURL"
+        "name": "Dal Makhani",
+        "imgUrl": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg"
       }
     ]
   }
