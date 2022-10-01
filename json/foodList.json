@@ -1,0 +1,58 @@
+{
+    "foodList": [
+      {
+        "details": [
+          "",
+          "",
+          ""
+        ],
+        "name": "Hello World",
+        "imgUrl": "imageURL"
+      },
+      {
+        "details": [
+          "",
+          "",
+          ""
+        ],
+        "name": "Hello World",
+        "imgUrl": "imageURL"
+      },
+      {
+        "details": [
+          "",
+          "",
+          ""
+        ],
+        "name": "Hello World",
+        "imgUrl": "imageURL"
+      },
+      {
+        "details": [
+          "",
+          "",
+          ""
+        ],
+        "name": "Hello World",
+        "imgUrl": "imageURL"
+      },
+      {
+        "details": [
+          "",
+          "",
+          ""
+        ],
+        "name": "Hello World",
+        "imgUrl": "imageURL"
+      },
+      {
+        "details": [
+          "",
+          "",
+          ""
+        ],
+        "name": "Hello World",
+        "imgUrl": "imageURL"
+      }
+    ]
+  }
