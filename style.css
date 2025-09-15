@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: #fff;
+  padding: 1rem 2rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #0077b6;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  color: #0077b6;
+}
+
+.hero {
+  height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+              url('https://source.unsplash.com/1600x900/?technology,code') center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding-top: 70px;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+}
+
+.hero span {
+  color: #90e0ef;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  background: #0077b6;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #023e8a;
+}
+
+.section {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.about-container img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.skills-grid, .projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.skill-card {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 10px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.project-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.project-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.project-card h3 {
+  margin: 1rem 0;
+}
+
+.timeline {
+  max-width: 700px;
+  margin: auto;
+  text-align: left;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+}
+
+.contact p {
+  margin: 1rem 0;
+}
+
+.socials a {
+  margin: 0 0.5rem;
+  font-size: 1.5rem;
+  color: #0077b6;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #f1f1f1;
+  margin-top: 2rem;
+}
